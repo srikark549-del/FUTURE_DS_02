@@ -57,11 +57,6 @@ This project analyzes customer churn behavior using Power BI to identify key fac
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
-
----
-
 ## 🚀 Outcome
 This project demonstrates how data-driven insights can help businesses reduce churn and improve customer retention.
 
